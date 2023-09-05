@@ -1,5 +1,5 @@
 # chromakey
-chroma key using open CV
+chroma key using open CV. replace green screen with bakground image or video.
 Objectives
  Getting familiar with OpenCV 4.6.0
  Reading, processing and displaying images using OpenCV 4.6.0
