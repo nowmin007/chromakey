@@ -7,7 +7,8 @@ Objectives
 Task One
 Many color spaces are available to represent pixel values of a color image. Some are perceptually uniform and others are not. This task is to read an image and display the original color image and its components of a specified color space, such as CIE-XYZ, CIE-Lab, YCrCb and HSB. The color components must be displayed in gray-scale. The original image and its three components must be display in a single viewing window as arranged below.
 Original Image
-C1(e.g.X,L,Y orB)
+C1(e.g.X,L,Y orB)![img2](https://github.com/user-attachments/assets/84e05214-465b-48c4-bfa0-6b7fcdd9ced7)
+
 C2 (e.g. Y, a, Cr or H)
 C3 (e.g. Z, b, Cb, or S)
 Note that
