@@ -54,4 +54,4 @@ has to be in Python (with OpenCV 4.6.0, assuming numpy and matplotlib packages
 exist).
 6. The code should be modularized with detail comments AND all source code should be
 placed in a single file named as “Chromakey.py”.
-![img2](https://github.com/user-attachments/assets/84e05214-465b-48c4-bfa0-6b7fcdd9ced7)
+
